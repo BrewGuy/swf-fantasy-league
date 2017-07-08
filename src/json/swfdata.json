@@ -1,0 +1,35 @@
+{
+    "fantasyleague":[{
+            "superstar":"Aaron",
+            "points":"9"
+        },
+        {
+            "superstar":"Brian",
+            "points":"8"
+        },
+        {
+            "superstar":"Chris",
+            "points":"7"
+        },
+        {
+            "superstar":"Dan",
+            "points":"6"
+        },
+        {
+            "superstar":"Daryl",
+            "points":"5"
+        },
+        {
+            "superstar":"Joe",
+            "points":"4"
+        },
+        {
+            "superstar":"Maddy",
+            "points":"3"
+        },
+        {
+            "superstar":"Sean",
+            "points":"2"
+        }
+    ]
+}
